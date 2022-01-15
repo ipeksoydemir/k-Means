@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FinalProject_k-Means/1.0.0": {
+        "runtime": {
+          "FinalProject_k-Means.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalProject_k-Means/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

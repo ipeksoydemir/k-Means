@@ -1,0 +1,15 @@
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/bin/Debug/net5.0/FinalProject_k-Means.deps.json
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/bin/Debug/net5.0/FinalProject_k-Means.runtimeconfig.json
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/bin/Debug/net5.0/FinalProject_k-Means.runtimeconfig.dev.json
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/bin/Debug/net5.0/FinalProject_k-Means.dll
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/bin/Debug/net5.0/ref/FinalProject_k-Means.dll
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/bin/Debug/net5.0/FinalProject_k-Means.pdb
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.csproj.AssemblyReference.cache
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.AssemblyInfoInputs.cache
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.AssemblyInfo.cs
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.csproj.CoreCompileInputs.cache
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.dll
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/ref/FinalProject_k-Means.dll
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.pdb
+/Users/ipeksoydemir/RiderProjects/FinalProject_k-Means/FinalProject_k-Means/obj/Debug/net5.0/FinalProject_k-Means.genruntimeconfig.cache
